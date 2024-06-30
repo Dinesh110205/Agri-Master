@@ -7,7 +7,7 @@ The purpose of our project is to develop an advanced agricultural assistant syst
 “Develop an AI chatbot system that provides farmers with a feeling of directly interacting with their agricultural field.”
 
 ### TechStack used: 
-- Front-End Programming Language: Streamlit
+- Front-End: Streamlit
 - API’s Used: Gemini API
 - Back-End Programming: Python
 - Spacy (For NLP): To understand the user query and give required Data.
